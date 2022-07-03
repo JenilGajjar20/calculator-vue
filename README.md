@@ -73,3 +73,5 @@ import "./assets/css/tailwind.css";
 ```
 npm run serve
 ```
+
+You can read the full article on [Medium](https://medium.com/@jenilgajjar/calculator-in-vue-js-along-with-tailwind-css-2e670815208d)
