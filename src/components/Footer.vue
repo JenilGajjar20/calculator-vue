@@ -12,8 +12,8 @@
             link.name === 'Github',
           'bg-blue-300 text-blue-800 hover:bg-blue-800 hover:text-blue-300':
             link.name === 'Linkedin',
-          'bg-black text-white hover:bg-white hover:text-black':
-            link.name === 'Medium',
+          'bg-cyan-500 text-white hover:bg-white hover:text-cyan-500':
+            link.name === 'Twitter',
         }"
         class="py-2 px-4 rounded transition-all duration-100"
         ><i :class="`fa fa-${link.icon}`"></i

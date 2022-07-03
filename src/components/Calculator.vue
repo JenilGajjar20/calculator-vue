@@ -63,9 +63,9 @@ const links = [
     icon: "linkedin",
   },
   {
-    name: "Medium",
-    link: "https://medium.com/@jenilgajjar",
-    icon: "medium",
+    name: "Twitter",
+    link: "https://twitter.com/gajjar_jenil",
+    icon: "twitter",
   },
 ];
 
